@@ -1,0 +1,181 @@
+2018-04-12T10:53:35.275Z - info: User function triggered, starting execution
+2018-04-12T10:53:35.287Z - info: Execution took 13 ms, user function completed successfully
+2018-04-12T10:53:35.434Z - info: Worker for app closed due to file changes.
+2018-04-12T10:53:45.062Z - info: User function triggered, starting execution
+2018-04-12T10:53:45.070Z - info: Execution took 9 ms, user function completed successfully
+2018-04-12T10:53:53.961Z - info: User function triggered, starting execution
+2018-04-12T10:53:53.962Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:55.246Z - info: User function triggered, starting execution
+2018-04-12T10:53:55.248Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:55.752Z - info: User function triggered, starting execution
+2018-04-12T10:53:55.754Z - info: Execution took 0 ms, user function completed successfully
+2018-04-12T10:53:56.060Z - info: User function triggered, starting execution
+2018-04-12T10:53:56.061Z - info: Execution took 0 ms, user function completed successfully
+2018-04-12T10:53:56.258Z - info: User function triggered, starting execution
+2018-04-12T10:53:56.259Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:56.539Z - info: User function triggered, starting execution
+2018-04-12T10:53:56.540Z - info: Execution took 0 ms, user function completed successfully
+2018-04-12T10:53:56.861Z - info: User function triggered, starting execution
+2018-04-12T10:53:56.864Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:57.192Z - info: User function triggered, starting execution
+2018-04-12T10:53:57.193Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:57.561Z - info: User function triggered, starting execution
+2018-04-12T10:53:57.563Z - info: Execution took 2 ms, user function completed successfully
+2018-04-12T10:53:57.821Z - info: User function triggered, starting execution
+Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:58.086Z - info: User function triggered, starting execution
+2018-04-12T10:53:58.088Z - info: Execution took 0 ms, user function completed successfully
+2018-04-12T10:53:58.375Z - info: User function triggered, starting execution
+2018-04-12T10:53:58.376Z - info: Execution took 0 ms, user function completed successfully
+2018-04-12T10:53:58.568Z - info: User function triggered, starting execution
+2018-04-12T10:53:58.569Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:58.898Z - info: User function triggered, starting execution
+2018-04-12T10:53:58.899Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:53:59.033Z - info: User function triggered, starting execution
+2018-04-12T10:53:59.034Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:54:37.520Z - info: User function triggered, starting execution
+2018-04-12T10:54:37.528Z - info: Execution took 9 ms, user function completed successfully
+2018-04-12T10:54:37.869Z - info: User function triggered, starting execution
+2018-04-12T10:54:37.871Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:54:38.826Z - info: User function triggered, starting execution
+2018-04-12T10:54:38.826Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T10:56:27.837Z - info: User function triggered, starting execution
+2018-04-12T10:56:28.608Z - info: User function triggered, starting execution
+2018-04-12T10:56:38.891Z - info: User function triggered, starting execution
+2018-04-12T10:56:49.578Z - info: User function triggered, starting execution
+2018-04-12T10:56:52.530Z - info: User function triggered, starting execution
+2018-04-12T10:56:52.928Z - info: User function triggered, starting execution
+2018-04-12T10:57:25.152Z - info: Execution took 32227 ms, finished with status: 'crash'
+2018-04-12T10:57:27.828Z - info: Execution took 60002 ms, finished with status: 'timeout'
+2018-04-12T10:57:28.606Z - info: Execution took 60003 ms, finished with status: 'timeout'
+2018-04-12T10:57:38.214Z - info: User function triggered, starting execution
+2018-04-12T10:57:39.055Z - info: Execution took 1461 ms, finished with status: 'crash'
+2018-04-12T10:57:40.395Z - info: User function triggered, starting execution
+2018-04-12T10:57:41.830Z - info: User function triggered, starting execution
+2018-04-12T10:57:44.824Z - info: User function triggered, starting execution
+2018-04-12T10:57:45.924Z - info: User function triggered, starting execution
+2018-04-12T10:57:48.548Z - info: User function triggered, starting execution
+2018-04-12T10:57:56.507Z - info: Execution took 7962 ms, finished with status: 'crash'
+2018-04-12T10:57:58.018Z - info: User function triggered, starting execution
+2018-04-12T10:57:58.067Z - info: User function triggered, starting execution
+2018-04-12T10:58:32.631Z - info: Execution took 34566 ms, finished with status: 'crash'
+2018-04-12T10:58:44.125Z - info: User function triggered, starting execution
+2018-04-12T10:58:44.299Z - info: Execution took 799 ms, finished with status: 'crash'
+2018-04-12T10:58:46.065Z - info: User function triggered, starting execution
+2018-04-12T10:58:46.570Z - info: Execution took 1124 ms, finished with status: 'crash'
+2018-04-12T10:58:47.747Z - info: User function triggered, starting execution
+2018-04-12T10:59:44.443Z - info: User function triggered, starting execution
+2018-04-12T10:59:47.740Z - info: Execution took 60003 ms, finished with status: 'timeout'
+2018-04-12T10:59:47.745Z - info: Execution took 3308 ms, finished with status: 'crash'
+2018-04-12T11:00:52.674Z - info: User function triggered, starting execution
+Execution took 9 ms, user function completed successfully
+2018-04-12T11:00:53.964Z - info: User function triggered, starting execution
+2018-04-12T11:00:53.972Z - info: Execution took 8 ms, user function completed successfully
+2018-04-12T11:11:44.839Z - info: User function triggered, starting execution
+2018-04-12T11:11:44.926Z - info: Execution took 87 ms, user function completed successfully
+2018-04-12T11:11:46.426Z - info: User function triggered, starting execution
+2018-04-12T11:11:46.432Z - info: Execution took 6 ms, user function completed successfully
+2018-04-12T11:11:46.736Z - info: User function triggered, starting execution
+Execution took 3 ms, user function completed successfully
+2018-04-12T11:11:46.908Z - info: User function triggered, starting execution
+2018-04-12T11:11:46.910Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T11:45:52.254Z - info: User function triggered, starting execution
+2018-04-12T11:45:52.374Z - info: Execution took 119 ms, user function completed successfully
+2018-04-12T11:46:23.999Z - info: Worker for app closed due to file changes.
+2018-04-12T11:46:38.670Z - info: User function triggered, starting execution
+2018-04-12T11:46:38.723Z - info: Execution took 54 ms, user function completed successfully
+2018-04-12T11:48:05.318Z - info: User function triggered, starting execution
+2018-04-12T11:48:05.382Z - info: Execution took 64 ms, user function completed successfully
+2018-04-12T11:48:08.338Z - info: User function triggered, starting execution
+2018-04-12T11:48:08.341Z - info: Execution took 3 ms, user function completed successfully
+2018-04-12T11:49:20.292Z - info: Worker for app closed due to file changes.
+2018-04-12T11:51:33.603Z - info: User function triggered, starting execution
+2018-04-12T11:51:33.665Z - info: Execution took 62 ms, user function completed successfully
+2018-04-12T11:51:33.665Z - error: Error: . doesn't match .. - 45:13
+    at validateClose (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js:28:11)
+    at Object.prepareBlock (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js:144:5)
+    at Object.anonymous (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:66:33)
+    at Parser.parse (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:368:48)
+    at HandlebarsEnvironment.parse (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:46:43)
+    at compileInput (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:515:19)
+    at ret (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:524:18)
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:876:16
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:161:5
+    at Promise._execute (/Users/shinyatk/Sites/firebase-node/functions/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/shinyatk/Sites/firebase-node/functions/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/shinyatk/Sites/firebase-node/functions/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:154:10)
+    at Function.exports.handlebars.render (/Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:866:10)
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:181:27
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:101:5
+2018-04-12T11:51:46.303Z - error: Function worker killed by signal: SIGTERM
+2018-04-12T11:51:47.818Z - info: User function triggered, starting execution
+2018-04-12T11:51:47.869Z - info: Execution took 53 ms, user function completed successfully
+2018-04-12T11:51:47.871Z - error: Error: . doesn't match .. - 45:14
+    at validateClose (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js:28:11)
+    at Object.prepareBlock (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js:144:5)
+    at Object.anonymous (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:66:33)
+    at Parser.parse (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:368:48)
+    at HandlebarsEnvironment.parse (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:46:43)
+    at compileInput (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:515:19)
+    at ret (/Users/shinyatk/Sites/firebase-node/functions/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:524:18)
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:876:16
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:161:5
+    at Promise._execute (/Users/shinyatk/Sites/firebase-node/functions/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/shinyatk/Sites/firebase-node/functions/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/shinyatk/Sites/firebase-node/functions/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:154:10)
+    at Function.exports.handlebars.render (/Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:866:10)
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:181:27
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/consolidate/lib/consolidate.js:101:5
+2018-04-12T11:56:15.454Z - error: Function worker killed by signal: SIGTERM
+2018-04-12T11:56:48.239Z - info: User function triggered, starting execution
+2018-04-12T11:56:48.254Z - info: Execution took 18 ms, user function completed successfully
+2018-04-12T11:56:48.255Z - error: Error: No default engine was specified and no extension was provided.
+    at new View (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/view.js:61:11)
+    at Function.render (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/response.js:1008:7)
+    at app.get (/Users/shinyatk/Sites/firebase-node/functions/index.js:19:12)
+    at Layer.handle [as handle_request] (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/index.js:317:13)
+    at /Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/shinyatk/Sites/firebase-node/functions/node_modules/express/lib/router/index.js:335:12)
+2018-04-12T11:58:11.325Z - info: Worker for app closed due to file changes.
+2018-04-12T11:58:11.359Z - error: Function worker killed by signal: SIGTERM
+2018-04-12T12:00:29.307Z - info: User function triggered, starting execution
+2018-04-12T12:00:29.318Z - info: Execution took 12 ms, user function completed successfully
+2018-04-12T12:00:53.972Z - info: Worker for app closed due to file changes.
+2018-04-12T12:00:55.142Z - info: User function triggered, starting execution
+2018-04-12T12:00:55.153Z - info: Execution took 11 ms, user function completed successfully
+2018-04-12T12:01:04.728Z - info: User function triggered, starting execution
+2018-04-12T12:01:04.739Z - info: Execution took 11 ms, user function completed successfully
+2018-04-12T12:01:10.817Z - info: User function triggered, starting execution
+2018-04-12T12:01:10.820Z - info: Execution took 2 ms, user function completed successfully
+2018-04-12T12:01:19.921Z - info: User function triggered, starting execution
+2018-04-12T12:01:19.925Z - info: Execution took 2 ms, user function completed successfully
+2018-04-12T12:01:20.976Z - info: User function triggered, starting execution
+2018-04-12T12:01:20.978Z - info: Execution took 1 ms, user function completed successfully
+2018-04-12T12:01:47.827Z - info: User function triggered, starting execution
+2018-04-12T12:01:47.838Z - info: Execution took 11 ms, user function completed successfully
+2018-04-12T12:01:49.231Z - info: User function triggered, starting execution
+2018-04-12T12:01:49.235Z - info: Execution took 3 ms, user function completed successfully
+2018-04-12T12:02:43.440Z - info: User function triggered, starting execution
+2018-04-12T12:02:43.451Z - info: Execution took 13 ms, user function completed successfully
+2018-04-12T12:02:45.463Z - info: User function triggered, starting execution
+2018-04-12T12:02:45.466Z - info: Execution took 3 ms, user function completed successfully
+2018-04-12T12:02:52.814Z - info: User function triggered, starting execution
+2018-04-12T12:02:52.825Z - info: Execution took 11 ms, user function completed successfully
+2018-04-12T12:02:54.209Z - info: User function triggered, starting execution
+2018-04-12T12:02:54.212Z - info: Execution took 3 ms, user function completed successfully
+2018-04-12T12:05:10.955Z - info: User function triggered, starting execution
+2018-04-12T12:05:10.965Z - info: Execution took 12 ms, user function completed successfully
+2018-04-12T12:05:12.250Z - info: User function triggered, starting execution
+2018-04-12T12:05:12.253Z - info: Execution took 2 ms, user function completed successfully

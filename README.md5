@@ -1,0 +1,14 @@
+# AMP with Firebase
+
+This is just a repo for testing AMP component
+
+### Run
+For Local
+```
+firebase serve --only functions,hosting
+```
+
+For Deployment
+```
+firebase deploy --only functions,hosting
+```
